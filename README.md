@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @absurd-programmer aka Garbhit Abhishek
+- 👋 Hi, I’m @absurd-programmer
 - 👀 I’m interested in Development & Problem Solving
 - 🌱 I’m currently learning Web-Dev
 - 💞️ I’m pursuing Electronics and Communication Engineering
