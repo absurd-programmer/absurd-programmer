@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development & Problem Solving
 - 🌱 I’m currently learning Web-Dev
 - 💞️ I’m pursuing Electronics and Communication Engineering
-- 📫 Reach me at : mail2garbhit0410@gmail.com
+- 📫 Reach me at : mail2nikhil0410@gmail.com
 
 <!---
 absurd-programmer/absurd-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
